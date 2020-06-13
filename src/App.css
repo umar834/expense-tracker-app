@@ -260,16 +260,19 @@ input[type='number'] {
   margin-left: 38%;
   font-size: 15px;
 }
+
 .button:hover {
   -webkit-transition: all 150ms linear;
   transition: all 150ms linear;
   opacity: .85;
 }
+
 .button:active {
   -webkit-transition: all 150ms linear;
   transition: all 150ms linear;
   opacity: .75;
 }
+
 .button:focus {
   outline: 1px dotted #959595;
   outline-offset: -4px;
